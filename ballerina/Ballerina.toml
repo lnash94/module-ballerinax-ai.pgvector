@@ -1,9 +1,9 @@
 [package]
 org = "ballerinax"
 name = "ai.pgvector"
-version = "1.0.3"
+version = "1.0.4"
 authors = ["Ballerina"]
-keywords = ["pgvector", "vector database", "vector search"]
+keywords = ["pgvector", "vector database", "vector search", "Vendor/N/A", "Area/AI", "Type/Util"]
 repository = "https://github.com/ballerina-platform/module-ballerinax-ai.pgvector"
 license = ["Apache-2.0"]
 distribution = "2201.12.0"
