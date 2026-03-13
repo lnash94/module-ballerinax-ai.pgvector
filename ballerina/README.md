@@ -1,5 +1,13 @@
 ## Overview
 
+pgvector is an open-source vector similarity search extension for PostgreSQL. The pgvector connector provides specialized support for vector operations within PostgreSQL, enabling the storage and search of high-dimensional vectors directly in the database.
+
+### Key Features
+
+- Specialized support for vector data types in PostgreSQL\n- Efficient vector similarity search (L2 distance, inner product, cosine distance)\n- Seamless integration with existing PostgreSQL databases\n- Support for IVFFlat and HNSW indexing\n- High-performance vector storage and retrieval\n- GraalVM compatible for native image builds
+
+
+
 Pgvector is a PostgreSQL extension that introduces a vector data type and similarity search capabilities for working with embeddings.
 
 The Ballerina pgvector module provides an API for integrating with the `pgvector` extension for PostgreSQL. Its implementation allows it to be used as a Ballerina AI `ai:VectorStore`, enabling users to store, retrieve, and search high-dimensional vectors. 
