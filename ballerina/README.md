@@ -1,6 +1,6 @@
 ## Overview
 
-pgvector is an open-source vector similarity search extension for PostgreSQL. The pgvector connector provides specialized support for vector operations within PostgreSQL, enabling the storage and search of high-dimensional vectors directly in the database.
+Pgvector is an open-source vector similarity search extension for PostgreSQL. The pgvector connector provides specialized support for vector operations within PostgreSQL, enabling the storage and search of high-dimensional vectors directly in the database.
 
 ### Key Features
 
